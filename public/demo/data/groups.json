@@ -1,0 +1,25 @@
+{
+    "data":[
+    {
+      "id": "1",
+      "name": "Admins",
+      "createdAt": "2024-11-28T12:00:00Z",
+      "updatedAt": "2024-11-28T12:00:00Z",
+      "role":""
+    },
+    {
+      "id": "2",
+      "name": "Regular Users",
+      "createdAt": "2024-11-28T12:00:00Z",
+      "updatedAt": "2024-11-28T12:00:00Z",
+      "role":""
+    },
+    {
+      "id": "3",
+      "name": "Auditors",
+      "createdAt": "2024-11-28T12:00:00Z",
+      "updatedAt": "2024-11-28T12:00:00Z",
+      "role":""
+    }
+  ]
+}

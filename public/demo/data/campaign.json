@@ -1,0 +1,58 @@
+{
+	"data": [
+        {
+            "id": "1d9e7f5b-3c34-4b34-a67f-90f00a9e6d6f",
+            "name": "Cybersecurity Awareness Training",
+            "startDate": "2024-12-01",
+            "endDate": "2024-12-15",
+            "time": "09:00 AM - 05:00 PM",
+            "content": "https://example.com/training-materials/cybersecurity-basics.pdf",
+            "allowComments": true,
+            "enrolledUsers": [
+              {
+                "id": "user1",
+                "name": "Alice Johnson",
+                "email": "alice.johnson@example.com",
+                "role": "Participant",
+                "department": "IT"
+              },
+              {
+                "id": "user2",
+                "name": "Bob Smith",
+                "email": "bob.smith@example.com",
+                "role": "Participant",
+                "department": "HR"
+              }
+            ],
+            "completedUsers": [
+              {
+                "id": "user1",
+                "name": "Alice Johnson",
+                "email": "alice.johnson@example.com",
+                "role": "Participant",
+                "department": "IT"
+              }
+            ],
+            "notifications": [
+              {
+                "id": "notif1",
+                "content": "The cybersecurity training starts tomorrow at 9 AM. Please ensure to attend.",
+                "schedule": "2024-11-30T18:00:00Z",
+                "type": "Reminder",
+                "createdAt": "2024-11-29T10:00:00Z"
+              },
+              {
+                "id": "notif2",
+                "content": "Daily reminder: Complete your cybersecurity training by December 15.",
+                "schedule": "2024-12-02T08:00:00Z",
+                "type": "Reminder",
+                "createdAt": "2024-11-30T10:00:00Z"
+              }
+            ],
+            "type": "Training",
+            "status": "Active",
+            "createdAt": "2024-11-26T12:00:00Z",
+            "updatedAt": "2024-11-26T15:00:00Z"
+          }
+    ]
+}

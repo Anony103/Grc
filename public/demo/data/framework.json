@@ -1,0 +1,28 @@
+{
+    "data":[
+    {
+      "id": "1",
+      "name": "ISO 27001",
+      "description": "ISO 27001:2013 is a global standard for establishing, implementing, maintaining, and improving an Information Security Management System (ISMS). It provides a comprehensive set of controls to help organizations secure their information.",
+      "standards": [],
+      "policies": [],
+      "controls": [],
+      "createdAt": "2024-12-04T00:00:00Z",
+      "updatedAt": "2024-12-04T00:00:00Z"
+    },
+
+
+    {
+      "id": "2",
+      "name": "ISO 20000",
+      "description": "ISO/IEC 20000 is an international standard for IT service management. It helps organizations manage IT services and align them with business goals. It provides a framework for managing and delivering IT services effectively.",
+      "standards": [],
+      "policies": [],
+      "controls": [],
+      "createdAt": "2024-12-04T00:00:00Z",
+      "updatedAt": "2024-12-04T00:00:00Z"
+    }
+   
+    
+  ]
+}

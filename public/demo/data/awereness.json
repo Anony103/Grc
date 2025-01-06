@@ -1,0 +1,114 @@
+{
+	"data": [
+    {
+      "SessionID": "SESS-001",
+      "SessionName": "Data Protection Training",
+      "Category": "Training",
+      "Date": "2024-11-20",
+      "Duration": "3 hours",
+      "Attendees": 25,
+      "HostFacilitator": "John Doe",
+      "Status": "Completed",
+      "ComplianceArea": "GDPR"
+    },
+    {
+      "SessionID": "SESS-002",
+      "SessionName": "Cybersecurity Awareness",
+      "Category": "Awareness",
+      "Date": "2024-11-21",
+      "Duration": "2 hours",
+      "Attendees": 40,
+      "HostFacilitator": "Jane Smith",
+      "Status": "Ongoing",
+      "ComplianceArea": "ISO 27001"
+    },
+    {
+      "SessionID": "SESS-003",
+      "SessionName": "Risk Management Workshop",
+      "Category": "Training",
+      "Date": "2024-11-22",
+      "Duration": "4 hours",
+      "Attendees": 18,
+      "HostFacilitator": "Risk Team",
+      "Status": "Scheduled",
+      "ComplianceArea": "ISO 31000"
+    },
+    {
+      "SessionID": "SESS-004",
+      "SessionName": "Ethics in Data Handling",
+      "Category": "Awareness",
+      "Date": "2024-11-23",
+      "Duration": "1.5 hours",
+      "Attendees": 30,
+      "HostFacilitator": "Compliance Office",
+      "Status": "Completed",
+      "ComplianceArea": "GDPR"
+    },
+    {
+      "SessionID": "SESS-005",
+      "SessionName": "Incident Response Simulation",
+      "Category": "Security",
+      "Date": "2024-11-24",
+      "Duration": "2 hours",
+      "Attendees": 15,
+      "HostFacilitator": "IT Security Team",
+      "Status": "Completed",
+      "ComplianceArea": "ISO 27001"
+    },
+    {
+      "SessionID": "SESS-006",
+      "SessionName": "Vendor Compliance Review",
+      "Category": "Training",
+      "Date": "2024-11-25",
+      "Duration": "3 hours",
+      "Attendees": 10,
+      "HostFacilitator": "Vendor Management Team",
+      "Status": "Scheduled",
+      "ComplianceArea": "SOC 2"
+    },
+    {
+      "SessionID": "SESS-007",
+      "SessionName": "Privacy Policy Updates",
+      "Category": "Awareness",
+      "Date": "2024-11-26",
+      "Duration": "1 hour",
+      "Attendees": 50,
+      "HostFacilitator": "Legal Team",
+      "Status": "Ongoing",
+      "ComplianceArea": "GDPR"
+    },
+    {
+      "SessionID": "SESS-008",
+      "SessionName": "Phishing Awareness Training",
+      "Category": "Security",
+      "Date": "2024-11-27",
+      "Duration": "2 hours",
+      "Attendees": 35,
+      "HostFacilitator": "Cybersecurity Team",
+      "Status": "Completed",
+      "ComplianceArea": "ISO 27001"
+    },
+    {
+      "SessionID": "SESS-009",
+      "SessionName": "Information Security Audit Preparation",
+      "Category": "Training",
+      "Date": "2024-11-28",
+      "Duration": "3 hours",
+      "Attendees": 20,
+      "HostFacilitator": "Audit Team",
+      "Status": "Scheduled",
+      "ComplianceArea": "ISO 27001"
+    },
+    {
+      "SessionID": "SESS-010",
+      "SessionName": "GDPR Compliance Overview",
+      "Category": "Awareness",
+      "Date": "2024-11-29",
+      "Duration": "1.5 hours",
+      "Attendees": 45,
+      "HostFacilitator": "Compliance Specialist",
+      "Status": "Completed",
+      "ComplianceArea": "GDPR"
+    }
+	]
+}

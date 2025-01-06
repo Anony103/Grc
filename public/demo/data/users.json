@@ -1,0 +1,40 @@
+{
+    "data":[
+    {
+      "id": "1",
+      "name": "Adeola Ogunleye",
+      "email": "adeola.ogunleye@company.com",
+      "group": "Operations Manager",
+      "department": "Logistics"
+    },
+    {
+      "id": "2",
+      "name": "Kwame Mensah",
+      "email": "kwame.mensah@company.com",
+      "group": "Software Developer",
+      "department": "IT"
+    },
+    {
+      "id": "3",
+      "name": "Fatoumata Diallo",
+      "email": "fatoumata.diallo@company.com",
+      "group": "Finance Analyst",
+      "department": "Finance"
+    },
+    {
+      "id": "4",
+      "name": "Chinyere Okafor",
+      "email": "chinyere.okafor@company.com",
+      "group": "Marketing Lead",
+      "department": "Marketing"
+    },
+    {
+      "id": "5",
+      "name": "Thabo Mokoena",
+      "email": "thabo.mokoena@company.com",
+      "group": "UX Designer",
+      "department": "Design"
+    }
+    ]
+}
+  

@@ -1,0 +1,184 @@
+{
+  "data": [
+      {
+          "id": "1",
+          "clause": "A.5.1",
+          "controlName": "Information Security Policies",
+          "applicable": "Y",
+          "justification": "This control is applicable to ensure the creation and maintenance of information security policies.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "information_security_policy_evidence.pdf",
+          "responsible": "John Doe",
+          "createdAt": "2024-11-05T00:00:00Z",
+          "updatedAt": "2024-11-15T00:00:00Z",
+          "frameworkId": 1,
+          "framework": {
+              "id": 1,
+              "name": "ISO 27001",
+              "description": "ISO 27001:2013 is a global standard for establishing, implementing, maintaining, and improving an Information Security Management System (ISMS). It provides a comprehensive set of controls to help organizations secure their information."
+          }
+      },
+      {
+          "id": "2",
+          "clause": "A.6.2",
+          "controlName": "User Access Management",
+          "applicable": "Y",
+          "justification": "This control is applicable to ensure that user access to systems is properly managed.",
+          "implementationStatus": "In Progress",
+          "evidenceFile": null,
+          "responsible": "Alice Johnson",
+          "createdAt": "2024-11-10T00:00:00Z",
+          "updatedAt": "2024-12-01T00:00:00Z",
+          "frameworkId": 2,
+          "framework": {
+              "id": 2,
+              "name": "PCI-DSS",
+              "description": "Payment Card Industry Data Security Standard (PCI-DSS) defines the requirements for securely processing, storing, and transmitting cardholder data. It applies to organizations that handle payment card data."
+          }
+      },
+      {
+          "id": "3",
+          "clause": "A.7.3",
+          "controlName": "Cryptographic Protections",
+          "applicable": "Y",
+          "justification": "This control is applicable to ensure cryptographic methods are applied to secure sensitive data.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "cryptographic_protections_evidence.pdf",
+          "responsible": "Sarah Lee",
+          "createdAt": "2024-11-12T00:00:00Z",
+          "updatedAt": "2024-11-25T00:00:00Z",
+          "frameworkId": 3,
+          "framework": {
+              "id": 3,
+              "name": "NIST",
+              "description": "NIST Cybersecurity Framework provides a policy framework for improving critical infrastructure cybersecurity."
+          }
+      },
+      {
+          "id": "4",
+          "clause": "A.8.1",
+          "controlName": "Mobile Device Management",
+          "applicable": "Y",
+          "justification": "This control ensures that mobile devices are properly secured to prevent data breaches.",
+          "implementationStatus": "In Progress",
+          "evidenceFile": "mobile_device_management_evidence.pdf",
+          "responsible": "Michael Brown",
+          "createdAt": "2024-10-20T00:00:00Z",
+          "updatedAt": "2024-11-10T00:00:00Z",
+          "frameworkId": 4,
+          "framework": {
+              "id": 4,
+              "name": "SOC 2",
+              "description": "SOC 2 defines criteria for managing customer data based on five ‘trust service principles’: security, availability, processing integrity, confidentiality, and privacy."
+          }
+      },
+      {
+          "id": "5",
+          "clause": "A.9.1",
+          "controlName": "Firewall Configurations",
+          "applicable": "Y",
+          "justification": "This control is necessary to ensure that network traffic is properly filtered to protect sensitive systems.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "firewall_configurations_evidence.pdf",
+          "responsible": "David Anderson",
+          "createdAt": "2024-09-15T00:00:00Z",
+          "updatedAt": "2024-09-20T00:00:00Z",
+          "frameworkId": 2,
+          "framework": {
+              "id": 2,
+              "name": "PCI-DSS",
+              "description": "Payment Card Industry Data Security Standard (PCI-DSS) defines the requirements for securely processing, storing, and transmitting cardholder data. It applies to organizations that handle payment card data."
+          }
+      },
+      {
+          "id": "6",
+          "clause": "A.5.2",
+          "controlName": "Security Risk Assessment",
+          "applicable": "Y",
+          "justification": "This control is necessary to identify and assess potential security risks within the organization.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "risk_assessment_report.pdf",
+          "responsible": "Jack Black",
+          "createdAt": "2024-09-05T00:00:00Z",
+          "updatedAt": "2024-09-25T00:00:00Z",
+          "frameworkId": 3,
+          "framework": {
+              "id": 3,
+              "name": "NIST",
+              "description": "NIST Cybersecurity Framework for improving critical infrastructure cybersecurity."
+          }
+      },
+      {
+          "id": "7",
+          "clause": "A.10.2",
+          "controlName": "Data Backup and Recovery",
+          "applicable": "Y",
+          "justification": "Ensures that organization data can be restored in case of data loss or disaster.",
+          "implementationStatus": "In Progress",
+          "evidenceFile": null,
+          "responsible": "Helen Clark",
+          "createdAt": "2024-10-30T00:00:00Z",
+          "updatedAt": "2024-11-15T00:00:00Z",
+          "frameworkId": 1,
+          "framework": {
+              "id": 1,
+              "name": "ISO 27001",
+              "description": "ISO 27001:2013 for establishing, implementing, maintaining, and improving ISMS."
+          }
+      },
+      {
+          "id": "8",
+          "clause": "A.11.3",
+          "controlName": "Security Monitoring",
+          "applicable": "Y",
+          "justification": "This control is necessary to continuously monitor security threats and protect the organization’s data.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "security_monitoring_evidence.pdf",
+          "responsible": "Jessica Green",
+          "createdAt": "2024-11-05T00:00:00Z",
+          "updatedAt": "2024-11-10T00:00:00Z",
+          "frameworkId": 4,
+          "framework": {
+              "id": 4,
+              "name": "SOC 2",
+              "description": "SOC 2 focuses on security, availability, and processing integrity."
+          }
+      },
+      {
+          "id": "9",
+          "clause": "A.7.1",
+          "controlName": "Access Control Mechanisms",
+          "applicable": "Y",
+          "justification": "This control applies to managing access to sensitive systems and data.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "access_control_mechanisms_evidence.pdf",
+          "responsible": "Emma Stone",
+          "createdAt": "2024-08-10T00:00:00Z",
+          "updatedAt": "2024-09-05T00:00:00Z",
+          "frameworkId": 2,
+          "framework": {
+              "id": 2,
+              "name": "PCI-DSS",
+              "description": "PCI-DSS for securely processing, storing, and transmitting payment card data."
+          }
+      },
+      {
+          "id": "10",
+          "clause": "A.9.2",
+          "controlName": "Password Management",
+          "applicable": "Y",
+          "justification": "This control defines password requirements to strengthen security across systems.",
+          "implementationStatus": "Complete",
+          "evidenceFile": "password_management_evidence.pdf",
+          "responsible": "Tom Smith",
+          "createdAt": "2024-09-12T00:00:00Z",
+          "updatedAt": "2024-09-30T00:00:00Z",
+          "frameworkId": 1,
+          "framework": {
+              "id": 1,
+              "name": "ISO 27001",
+              "description": "ISO 27001 for Information Security Management."
+          }
+      }
+  ]
+}

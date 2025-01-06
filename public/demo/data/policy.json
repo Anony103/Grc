@@ -1,0 +1,193 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "policyName": "Data Protection Policy",
+            "description": "This policy outlines how personal data should be protected in accordance with legal and regulatory requirements.",
+            "templateFile": "data_protection_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Reviewed and approved by management.",
+            "createdBy": "John Doe",
+            "approvedBy": "Jane Smith",
+            "reviewedBy": "Michael Brown",
+            "reviewDate": "2024-11-15T00:00:00Z",
+            "approvalDate": "2024-11-20T00:00:00Z",
+            "createdAt": "2024-11-01T00:00:00Z",
+            "updatedAt": "2024-11-21T00:00:00Z",
+            "frameworkId": 1,
+            "framework": {
+                "id": 1,
+                "name": "ISO 27001",
+                "description": "ISO 27001:2013 is a global standard for establishing, implementing, maintaining, and improving an Information Security Management System (ISMS). It provides a comprehensive set of controls to help organizations secure their information."
+            }
+        },
+        {
+            "id": "2",
+            "policyName": "Access Control Policy",
+            "description": "This policy defines how access to sensitive systems and data is granted and managed within the organization.",
+            "templateFile": "access_control_policy_template.pdf",
+            "status": "In Review",
+            "reviewComments": "Requires additional input from the IT department.",
+            "createdBy": "Alice Johnson",
+            "approvedBy": null,
+            "reviewedBy": "Sarah Lee",
+            "reviewDate": "2024-12-01T00:00:00Z",
+            "approvalDate": null,
+            "createdAt": "2024-10-20T00:00:00Z",
+            "updatedAt": "2024-12-01T00:00:00Z",
+            "frameworkId": 2,
+            "framework": {
+                "id": 2,
+                "name": "PCI-DSS",
+                "description": "Payment Card Industry Data Security Standard (PCI-DSS) defines the requirements for securely processing, storing, and transmitting cardholder data. It applies to organizations that handle payment card data."
+            }
+        },
+        {
+            "id": "3",
+            "policyName": "Incident Response Policy",
+            "description": "This policy defines the processes for responding to security incidents to minimize damage and restore normal operations.",
+            "templateFile": "incident_response_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Reviewed and updated for clarity.",
+            "createdBy": "Robert Harris",
+            "approvedBy": "Jessica Green",
+            "reviewedBy": "Michael Brown",
+            "reviewDate": "2024-10-05T00:00:00Z",
+            "approvalDate": "2024-10-10T00:00:00Z",
+            "createdAt": "2024-09-25T00:00:00Z",
+            "updatedAt": "2024-10-10T00:00:00Z",
+            "frameworkId": 3,
+            "framework": {
+                "id": 3,
+                "name": "NIST",
+                "description": "NIST Cybersecurity Framework provides a policy framework for improving critical infrastructure cybersecurity."
+            }
+        },
+        {
+            "id": "4",
+            "policyName": "Cloud Security Policy",
+            "description": "This policy defines the security controls required for protecting cloud-based assets and services.",
+            "templateFile": "cloud_security_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Final approval pending.",
+            "createdBy": "Lucy Walker",
+            "approvedBy": "John Smith",
+            "reviewedBy": "Sarah Lee",
+            "reviewDate": "2024-12-10T00:00:00Z",
+            "approvalDate": "2024-12-15T00:00:00Z",
+            "createdAt": "2024-11-01T00:00:00Z",
+            "updatedAt": "2024-12-01T00:00:00Z",
+            "frameworkId": 4,
+            "framework": {
+                "id": 4,
+                "name": "CSA CCM",
+                "description": "Cloud Security Alliance Cloud Controls Matrix (CCM) is a cybersecurity control framework for cloud computing."
+            }
+        },
+        {
+            "id": "5",
+            "policyName": "Business Continuity Policy",
+            "description": "This policy outlines the steps to be taken to ensure business continuity during a disaster or disruption.",
+            "templateFile": "business_continuity_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Reviewed and approved by the senior management team.",
+            "createdBy": "Emma Stone",
+            "approvedBy": "Daniel Green",
+            "reviewedBy": "George Brown",
+            "reviewDate": "2024-08-25T00:00:00Z",
+            "approvalDate": "2024-09-05T00:00:00Z",
+            "createdAt": "2024-07-10T00:00:00Z",
+            "updatedAt": "2024-09-10T00:00:00Z",
+            "frameworkId": 1,
+            "framework": {
+                "id": 1,
+                "name": "ISO 22301",
+                "description": "ISO 22301 is a business continuity management standard that provides a framework for managing risks related to business disruptions."
+            }
+        },
+        {
+            "id": "6",
+            "policyName": "Email Security Policy",
+            "description": "This policy outlines security protocols to protect email communications and prevent unauthorized access.",
+            "templateFile": "email_security_policy_template.pdf",
+            "status": "In Review",
+            "reviewComments": "Under review for implementation feasibility.",
+            "createdBy": "Nancy Davis",
+            "approvedBy": null,
+            "reviewedBy": "Chris Johnson",
+            "reviewDate": "2024-12-01T00:00:00Z",
+            "approvalDate": null,
+            "createdAt": "2024-11-05T00:00:00Z",
+            "updatedAt": "2024-12-01T00:00:00Z",
+            "frameworkId": 2,
+            "framework": {
+                "id": 2,
+                "name": "SOC 2",
+                "description": "SOC 2 defines criteria for managing customer data based on five ‘trust service principles’: security, availability, processing integrity, confidentiality, and privacy."
+            }
+        },
+        {
+            "id": "7",
+            "policyName": "Network Security Policy",
+            "description": "This policy outlines the measures required to secure the organization’s network and its components.",
+            "templateFile": "network_security_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Approved by the IT security team.",
+            "createdBy": "Tom Smith",
+            "approvedBy": "Michael Green",
+            "reviewedBy": "Sarah Lee",
+            "reviewDate": "2024-10-12T00:00:00Z",
+            "approvalDate": "2024-10-18T00:00:00Z",
+            "createdAt": "2024-09-10T00:00:00Z",
+            "updatedAt": "2024-10-20T00:00:00Z",
+            "frameworkId": 1,
+            "framework": {
+                "id": 1,
+                "name": "ISO 27001",
+                "description": "ISO 27001 is an international standard for information security management systems (ISMS)."
+            }
+        },
+        {
+            "id": "8",
+            "policyName": "Physical Security Policy",
+            "description": "This policy sets out the physical security measures required to protect the organization’s physical assets.",
+            "templateFile": "physical_security_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Reviewed and approved by senior management.",
+            "createdBy": "Jack Black",
+            "approvedBy": "Helen Clark",
+            "reviewedBy": "Michael Brown",
+            "reviewDate": "2024-08-30T00:00:00Z",
+            "approvalDate": "2024-09-10T00:00:00Z",
+            "createdAt": "2024-07-15T00:00:00Z",
+            "updatedAt": "2024-09-15T00:00:00Z",
+            "frameworkId": 3,
+            "framework": {
+                "id": 3,
+                "name": "NIST",
+                "description": "NIST Cybersecurity Framework for improving critical infrastructure cybersecurity."
+            }
+        },
+        {
+            "id": "9",
+            "policyName": "Cloud Data Encryption Policy",
+            "description": "This policy defines encryption standards for data stored in cloud environments.",
+            "templateFile": "cloud_data_encryption_policy_template.pdf",
+            "status": "Approved",
+            "reviewComments": "Reviewed and finalized.",
+            "createdBy": "David Anderson",
+            "approvedBy": "Mary Johnson",
+            "reviewedBy": "Chris Johnson",
+            "reviewDate": "2024-11-01T00:00:00Z",
+            "approvalDate": "2024-11-10T00:00:00Z",
+            "createdAt": "2024-09-01T00:00:00Z",
+            "updatedAt": "2024-11-15T00:00:00Z",
+            "frameworkId": 4,
+            "framework": {
+                "id": 4,
+                "name": "CSA CCM",
+                "description": "Cloud Security Alliance Cloud Controls Matrix (CCM) is a cybersecurity control framework for cloud computing."
+            }
+        }
+    ]
+}
